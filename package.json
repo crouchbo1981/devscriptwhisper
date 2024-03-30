@@ -1,0 +1,35 @@
+{
+  "name": "devscriptwhisper",
+  "version": "1.0.2",
+  "description": "devscriptwhisper",
+  "type": "module",
+  "main": "devscriptwhisper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crouchbo1981/devscriptwhisper"
+  },
+  "website": "https://github.com/crouchbo1981/devscriptwhisper.git",
+  "keywords": [
+    "devscriptwhisper"
+  ],
+  "author": "crouchbo1981",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crouchbo1981/devscriptwhisper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/crouchbo1981/devscriptwhisper#readme",
+  "dependencies": {
+    "programcraftsavvy": "1.0.2",
+    "codescriptmentor": "1.0.2",
+    "devcodecraftsman": "1.0.2",
+    "codementorr": "1.0.2"
+
+  }
+}
